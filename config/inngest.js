@@ -1,7 +1,5 @@
 import { Inngest } from "inngest";
-
 //Ingest function to save user data to a database
-import { Inngest } from "inngest";
 import { connect } from "mongoose";
 import connectDB from "./db";
 
